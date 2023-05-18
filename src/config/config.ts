@@ -3,7 +3,7 @@
  * @field
  * sheetName: Store sheet name
  * targetSSIds: Target spread sheet ids
- * emails: Group teacher's email addresses
+ * emails: Email addresses
  * threshold: Minutes
  * slackIds: Slack ids
  * webHookUrl: Slack webhook url
